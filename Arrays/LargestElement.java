@@ -41,6 +41,10 @@ public class LargestElement {
   }
 }*/
 
+// Time complexity 
+//Brute force --> O(N * log N)
+//Recursion   --> O(N)
+
 
 
 
