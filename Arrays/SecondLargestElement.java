@@ -80,9 +80,9 @@ public static void main(String[] args)
 }
  */
 
- /*
+
   //Optimal Approach
-  import java.io.*;
+import java.io.*;
 class SecondLargestElement
 {
 static private int secondSmallest(int[] arr, int n)
@@ -143,7 +143,6 @@ public static void main(String[] args)
 
 }
 
-  */
 
 // Time complexity 
 //Brute force   --> O(N * log N)
