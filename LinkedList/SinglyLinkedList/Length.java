@@ -50,7 +50,7 @@ class SinglyLinkedList {
         list.append(30);
         list.append(40);
 
-        System.out.println("Length of the list:"+ list.length());
+        System.out.println("Length of the list:"+ list.getLength());
         
     }
 }
