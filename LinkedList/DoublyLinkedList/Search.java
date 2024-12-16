@@ -52,8 +52,8 @@ class DoublyLinkedList {
         list.append(30);
         list.append(40);
 
-        System.out.println("Is 20 in the list? " + list.search(20)); // Output: true
-        System.out.println("Is 50 in the list? " + list.search(50)); // Output: false
+        System.out.println("Is 20 in the list? " + list.search(20)); 
+        System.out.println("Is 50 in the list? " + list.search(50)); 
     }
 }
 
