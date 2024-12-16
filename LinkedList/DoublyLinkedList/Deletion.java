@@ -127,7 +127,7 @@ public class Deletion {
         dll.deleteAtTail();
         dll.printList();
 
-        /
+        
         System.out.println("After deleting at position 2:");
         dll.deleteAtPosition(2);
         dll.printList();
