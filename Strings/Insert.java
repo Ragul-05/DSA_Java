@@ -1,4 +1,4 @@
-package Strings;
+package strings;
 
 class GfG {
     static String insertChar(String s, char c, int pos) {
